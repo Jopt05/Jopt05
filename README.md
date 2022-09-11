@@ -9,3 +9,10 @@ I like to create personal projects and achieve challenges from different sources
  2. [Planet Facts App](https://jopt05.github.io/planet-facts-jopt05/)
  3. [Rock, Papper and Scissors](https://jopt05-rps.vercel.app/#/login)
  4. [MyUnsplash](https://my-unsplash-frontend-five.vercel.app/login)
+ 
+ ## Stacks
+ 
+|Languages| Frameworks/Libraries |
+|--|--|
+| ![enter image description here](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) | ![enter image description here](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green) |
+|![enter image description here](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)|![enter image description here](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![enter image description here](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) ![enter image description here](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
