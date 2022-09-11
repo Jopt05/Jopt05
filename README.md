@@ -1,6 +1,11 @@
-## Hi, my name is Jesús Puentes.
-I'm a mechatronics engineer from the Instituto Tecnológico Superior de Coatzacoalcos and since I started university I fell in love with coding.
+## Hello, my name is Jesús Puentes.
+Frontend/Backend developer with knowledge on ReactJs, ExpressJs and Python willing to expand my mind and learn new things everyday and be part of the upcoming challenges on the tech side of things.
 
-Through the school I had to setup mechatronics systems such as Arduino and PLC through TIA Portal Software.
+Through my career I've worked with languages such as Javascript and Python and some of them frameworks and libraries. I love to create applications that solve day by day problems.
+## Projects 
+I like to create personal projects and achieve challenges from different sources to test and improve my tech skills. These are projects I've made on my own:
 
-When the quarantine started I wanted to become a developer so I improved my coding knowledge and since then I'm always studying to improve my skills to some day create a better future for me and those around me.
+ 1. [Github Profiles App](https://jopt05.github.io/frontendmentor-githubprofiles/)
+ 2. [Planet Facts App](https://jopt05.github.io/planet-facts-jopt05/)
+ 3. [Rock, Papper and Scissors](https://jopt05-rps.vercel.app/#/login)
+ 4. [MyUnsplash](https://my-unsplash-frontend-five.vercel.app/login)
